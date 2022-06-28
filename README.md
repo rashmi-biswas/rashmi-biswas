@@ -6,7 +6,9 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=Stack-Overflow&logoColor=fac092&link=https://stackoverflow.com/users/16840498/rashmi-biswas)](https://stackoverflow.com/users/16840498/rashmi-biswas)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d93025?style=flat&logo=Gmail&logoColor=ec9892&link=mailto:rashmibiswas93@gmail.com)](mailto:rashmibiswas93@gmail.com)
 
-
+___
+Feel free to check out my projects.😊
+___
 
 ![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-biswas&show_icons=true&title_color=000000&icon_color=f9c027)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi-biswas&theme=graywhite&ring=f9c027" alt="rashmi-biswas" /></p>
