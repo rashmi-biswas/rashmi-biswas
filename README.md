@@ -4,6 +4,7 @@
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/rashmibiswas)](https://www.hackerrank.com/rashmibiswas/)
 [![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat&logo=Medium&logoColor=808080&link=https://medium.com/@rashmi-biswas)](https://medium.com/@rashmi-biswas)
 [![Stack Overflow Badge](https://img.shields.io/badge/-Stack_Overflow-F58025?style=flat&logo=Stack-Overflow&logoColor=fac092&link=https://stackoverflow.com/users/16840498/rashmi-biswas)](https://stackoverflow.com/users/16840498/rashmi-biswas)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=e6aece&link=https://instagram.com/rashmi__biswas/)](https://instagram.com/rashmi__biswas)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d93025?style=flat&logo=Gmail&logoColor=ec9892&link=mailto:rashmibiswas93@gmail.com)](mailto:rashmibiswas93@gmail.com)
 
 ___
