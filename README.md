@@ -11,12 +11,12 @@ ___
 Feel free to check out my projects.😊
 ___
 
-![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-biswas&show_icons=true&title_color=000000&icon_color=f9c027)
+![Rashmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashmi-biswas&show_icons=true&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rashmi-biswas&theme=graywhite&ring=f9c027" alt="rashmi-biswas" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi-biswas&show_icons=true&locale=en&layout=compact" alt="rashmi-biswas" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmi-biswas&show_icons=true&locale=en&layout=compact&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="rashmi-biswas" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi-biswas&label=Profile%20views&color=0e75b6&style=flat" alt="rashmi-biswas" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi-biswas&label=Profile%20views&color=0e75b6&style=flat&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="rashmi-biswas" /> </p>
 
 <br>
 </br>
