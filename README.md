@@ -7,7 +7,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=instagram&logoColor=e6aece&link=https://instagram.com/rashmi__biswas/)](https://instagram.com/rashmi__biswas)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d93025?style=flat&logo=Gmail&logoColor=ec9892&link=mailto:rashmibiswas93@gmail.com)](mailto:rashmibiswas93@gmail.com)
 
+
+## About Me
+
+- 🌱 Interested in Machine Learning, Deep Learning and Artificial Intelligence.
+
+- 😄 Pronouns: She/Her
+
 ___
+
+There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
+
 Feel free to check out my projects.😊
 ___
 
