@@ -28,9 +28,3 @@ ___
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmi-biswas&label=Profile%20views&color=0e75b6&style=flat&count_private=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="rashmi-biswas" /> </p>
 
-<br>
-</br>
-<h1 align = 'Center'>Watch a 🐍 eating my contribution graph</h1>
-<p align="center">
-  <img src="https://github.com/sakshiisaxena/sakshiisaxena/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
