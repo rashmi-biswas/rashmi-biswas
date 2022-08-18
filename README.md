@@ -14,8 +14,11 @@
 
 - 😄 Pronouns: She/Her
 
+- ☕ Coffee can be the ultimate solution for any stress
+
 ___
 
+I am passionate to play around with data and find interesting insights.
 There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful.
 
 Feel free to check out my projects.😊
